@@ -1,8 +1,25 @@
 
-Hi, I'am I.Batuhan Aydın
 
+<div align="center" style="position: relative;">
+  <div style="position:relative; width:100%; max-height:360px; overflow:hidden; border-radius:8px;">
+    <img src="images/header.png" alt="Header" style="width:100%; display:block;"/>
+    <div style="position:absolute; inset:0; background:rgba(0,0,0,0.45); z-index:1;"></div>
+    <h1 style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); color:#fff; text-shadow:2px 2px 6px rgba(0,0,0,0.8); z-index:2; margin:0; font-size:36px; font-weight:700; padding:8px 16px; border-radius:6px;">
+      Hi 👋, I'm İ.Batuhan Aydın
+    </h1>
+    <div style="position:absolute; top:calc(50% + 56px); left:50%; transform:translateX(-50%); z-index:2; padding-top:8px;">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Mechatronics+Engineer;Game+Developer;Software+Engineer" alt="Typing SVG" /></a>
+    </div>
+  </div>
+
+
+</div>
+
+<!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Mechatronics+Engineer;Game+Developer;Software+Engineer)](https://git.io/typing-svg)
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Mechatronics+Engineer;Game+Developer;Software+Engineer" alt="Typing SVG" /></a> -->
 
 
 ### 🧐 About Me
