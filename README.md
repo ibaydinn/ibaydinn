@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&color=005C98&center=true&vCenter=true&width=600&repeat=fals&lines=İdris+Batuhan+Aydın" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=120&color=005C98&center=true&vCenter=true&width=500&height=40&lines=Mechatronics+Engineer;Software+Engineer;Game+Developer;3D+%26+Graphic+Designer;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=656C6D&center=true&vCenter=true&width=500&height=40&lines=Mechatronics+Engineer;Software+Engineer;Game+Developer;3D+%26+Graphic+Designer;" />
 
 ---
 
@@ -32,7 +32,6 @@ I’m **İdris Batuhan Aydın**, also known as **ibaydin** — a multidisciplina
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
 ### **Game & 3D**
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
