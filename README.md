@@ -1,11 +1,28 @@
-<div style="width: 100%; height: 200px; overflow: hidden; position: relative; margin-bottom: 20px;">
-  <img src="images/header.png" alt="Header" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white;">
-    <h1 style="margin: 0; font-size: 2.5em; font-weight: bold; color: white; font-family: 'Poppins', sans-serif;">Hi, I'm İ. Batuhan Aydın</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Mechatronic+Engineer;Game+Developer;Software+Engineer" alt="Typing SVG" style="display: block;" /></a>
+<!-- HEADER BANNER -->
+<div style="position: relative; width: 100%; height: 260px; overflow: hidden; border-radius: 8px;">
+
+  <!-- Background Image -->
+  <img src="images/header.png"
+       style="width: 100%; height: 100%; object-fit: cover; filter: brightness(60%);" />
+
+  <!-- Text Overlay -->
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: white;
+      font-family: 'Poppins', sans-serif;
+  ">
+      <h1 style="margin: 0; font-size: 2.6em; font-weight: 700;">
+        Hi, I'm İ. Batuhan Aydın
+      </h1>
+
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Autonomous+Drive+Engineer;Game+Developer;Software+Engineer"
+           alt="Typing SVG" />
   </div>
-  </div>
-  </div>
+
 </div>
 
 
