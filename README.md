@@ -61,12 +61,6 @@ I’m **İdris Batuhan Aydın**, also known as **ibaydin** — a multidisciplina
 
 <div align="center">
 
-## 📊 GitHub Stats (Dark Theme)
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ibaydin&show_icons=true&theme=tokyonight&hide_border=true" />
-
----
-
 ## 💬 Stay in Touch!
 
 <p>
