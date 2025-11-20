@@ -3,7 +3,6 @@
   <h1 style="color:#656c6d; font-family:'Poppins', Arial, sans-serif; font-weight:800; font-size:3rem; margin:0;">
     Hi There ! I'm<br><span style="color:#005C98">İdris Batuhan Aydın</span>
   </h1>
-</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=005C98&center=true&vCenter=true&random=true&width=435&lines=Mechatronics+Engineer;Game+Developer;Software+Engineer" alt="Typing SVG" /></a>
 </div>
