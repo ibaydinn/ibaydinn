@@ -3,9 +3,9 @@
 # 👋 Hi There! I'm  
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&color=005C98&center=true&vCenter=true&width=600&repeat=false&lines=İdris+Batuhan+Aydın" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=500&color=005C98&center=true&vCenter=true&width=600&repeat=false&lines=İdris+Batuhan+Aydın" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=656C6D&center=true&vCenter=true&width=500&height=40&lines=Mechatronics+Engineer;Software+Engineer;Game+Developer;3D+%26+Graphic+Designer;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=1000&pause=1500&color=656C6D&center=true&vCenter=true&width=500&height=40&lines=Mechatronics+Engineer;Software+Engineer;Game+Developer;3D+%26+Graphic+Designer;" />
 
 ---
 
