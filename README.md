@@ -16,8 +16,8 @@ I’m **İdris Batuhan Aydın**, also known as **ibaydin** — a multidisciplina
 **autonomous drive**, **simulation**, **embedded systems**, **game development**, and **3D design**.
 
 - 🚗 **Autonomous Drive Software Engineer @ Togg** (ADAS & real-time systems)  
-- 🎮 **Indie Game Developer** focused on feel, effects, and UI/UX polish  
-- 🎨 **3D & Graphic Designer** with 7+ years of professional experience  
+- 🎮 **Simulation & Interaction Engineer** focused on real-time systems and visual feedback
+- 🎨 **3D & Graphic Designer** with 7+ years of hands-on experience
 - 🤖 Passionate about combining **embedded tech**, **simulation**, and **visual creation**
 
 ---
